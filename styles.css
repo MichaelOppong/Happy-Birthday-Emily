@@ -1,0 +1,46 @@
+.boxes {
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.cakeContainer {
+    text-align: center;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+body {
+    background-color: #00ffcc;
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+}
+
+.container {
+    display: flex;
+}
+
+.happyBox {
+    background: #fee975;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+.birthdayBox {
+    background: #ffaa7b;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+.emilyBox {
+    background: #17d3ff;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
