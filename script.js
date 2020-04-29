@@ -9,3 +9,7 @@ $(".birthdayBox").hover(function() {
 $(".emilyBox").hover(function() {
    $("img").attr("src", "https://codenation.org/wp-content/uploads/2019/01/IMG_2265.jpg");
 });
+
+$(".cakeContainer").hover(function() {
+   $("img").attr("src", "https://media2.giphy.com/media/l2Sq2ySYEIl3mzVgk/giphy.gif");
+});
