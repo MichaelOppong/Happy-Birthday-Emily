@@ -1,4 +1,4 @@
-/*$(".happyBox").hover(function() {
+$(".happyBox").hover(function() {
     $("img").attr("src", "https://media0.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif?cid=ecf05e474dd6d00c0c685d85b8bfe1623725191da6fbacfd&rid=giphy.gif");
 });
 
@@ -12,4 +12,4 @@ $(".emilyBox").hover(function() {
 
 $(".cakeContainer").hover(function() {
    $("img").attr("src", "https://media2.giphy.com/media/l2Sq2ySYEIl3mzVgk/giphy.gif");
-});*/
+});
