@@ -1,28 +1,19 @@
-.boxes {
-    display: block;
-    width: 100px;
-    text-align: center;
-}
-
-.cakeContainer {
-    text-align: center;
-    padding: 25px;
-    margin: 10px;
-    border: 10px solid black;
-}
-
 body {
     background-color: #00ffcc;
-    font-family: 'Bangers', cursive;
+    font-family: 'Lemonada', cursive;
     font-size: 30px;
+}
+
+p {
+    text-align: center;
 }
 
 .container {
     display: flex;
-    justify-content:center;
+    justify-content: center;
 }
 
-.happyBox {
+.farewell-box {
     background: #fee975;
     color: white;
     padding: 25px;
@@ -30,7 +21,7 @@ body {
     border: 10px solid black;
 }
 
-.birthdayBox {
+.young-box {
     background: #ffaa7b;
     color: white;
     padding: 25px;
@@ -38,10 +29,14 @@ body {
     border: 10px solid black;
 }
 
-.emilyBox {
+.court-box {
     background: #17d3ff;
     color: white;
     padding: 25px;
     margin: 10px;
     border: 10px solid black;
+}
+
+img {
+    width: 250px;
 }
